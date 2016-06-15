@@ -1,0 +1,2 @@
+# searchanise
+Magento Searchanise Extension
